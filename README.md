@@ -1,1 +1,1 @@
-# FreeEEG32-beta-Firmware
+# FreeEEG32-beta-Firmware-makefile
