@@ -1,4 +1,4 @@
-# FreeEEG32-beta-Firmware-makefile
+# FreeEEG32-beta-Firmware-STM32H743ZI-makefile
 
 requirements: linux and docker-compose
 
