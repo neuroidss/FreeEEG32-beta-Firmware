@@ -1,4 +1,4 @@
-# FreeEEG32-beta-Firmware-makefile-STM32H743ZI
+# FreeEEG32-beta-Firmware-STM32H743ZI-makefile
 
 requirements: docker
 
